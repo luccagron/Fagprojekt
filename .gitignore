@@ -1,0 +1,16 @@
+*.pyc
+__pycache__/
+*.pyo
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+*.xlsx
+*.xls
+*.csv
+*.log
+*.tmp
+*.aux
+*.out
+*.toc
+*.log
